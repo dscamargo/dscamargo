@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+Hello, my name is Douglas and I am Full stack developer, and I'm focused in Javascript and Typescript.
+
+- :battery: Graduated in Electrical Engineering.
+- :computer: I'm currently working with techs ReactJS, NodeJS, MongoDB and Postgres.
+- :robot: Learning about automated tests and CI/CD.
+- :rocket: I like to mix Software Development with Electrical Engineering using Arduino :robot:
+
+Follow me :star:
+
 <!--
 **dscamargo/dscamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
