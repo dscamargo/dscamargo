@@ -5,9 +5,9 @@
 #### Hello, my name is Douglas and I'm Full stack developer, and I'm focused in Javascript and Typescript.
 
 - :battery: Graduated in Electrical Engineering.
-- :computer: I'm currently working with techs ReactJS, NodeJS, MongoDB and Postgres.
+- :computer: I'm currently working with ReactJS, NodeJS, MongoDB and Postgres.
 - :robot: Learning about automated tests and CI/CD.
-- :rocket: I like to mix Software Development with Electrical Engineering using Arduino :robot:
+- :rocket: I like to mix Software Development with Electrical Engineering using Arduino and IOT :robot:
 
 #### Follow me :star:
 
