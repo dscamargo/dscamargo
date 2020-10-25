@@ -8,7 +8,7 @@
 
 - :battery: Graduated in Electrical Engineering.
 - :computer: I'm currently working with ReactJS, NodeJS, MongoDB and Postgres.
-- :robot: Learning about automated tests and CI/CD.
+- :robot: Learning about automated tests, CI/CD and k8s.
 - :rocket: I like to mix Software Development with Electrical Engineering using Arduino and IOT :robot:
 
 #### Follow me :star:
