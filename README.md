@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-[https://me.dscamargo.com](https://dscamargo.com)
+[https://dscamargo.com](https://dscamargo.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-simon-camargo/)](https://www.linkedin.com/in/douglas-simon-camargo/)
 
