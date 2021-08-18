@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go** and **k8s**
 
-- 👯 I’m looking to collaborate on **open source projects, using typescript, javascript and golang.**
+- 👯 I’m looking to collaborate on **open source projects using javascript, typescript and golang.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dscamargo](https://github.com/dscamargo)
 
