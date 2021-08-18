@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Douglas</h1>
-<h3 align="center">Fullstack developer, mainly code in Javascript</h3>
+<h3 align="center">Fullstack developer, currently programming in Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dscamargo&label=Profile%20views&color=2c353a&style=flat" alt="dscamargo" /> </p>
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** and **k8s**
 
-- 👯 I’m looking to collaborate on **open source projects, using typescript, javascript.**
+- 👯 I’m looking to collaborate on **open source projects, using typescript, javascript and golang.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dscamargo](https://github.com/dscamargo)
 
-- 💬 Ask me about **javascrip, typescript, golang and devops tools.**
+- 💬 Ask me about **javascript, typescript, golang and devops tools.**
 
 - 📫 How to reach me **me@dscamargo.com**
 
