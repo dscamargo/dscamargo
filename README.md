@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Go** and **k8s**
+- 🌱 I’m currently learning **Go**, **k8s** and **CI/CD Pipelines**
 
 - 👯 I’m looking to collaborate on **open source projects using javascript, typescript and golang.**
 
