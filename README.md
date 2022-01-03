@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects using javascript, typescript and golang.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dscamargo](https://github.com/dscamargo)
-
 - 💬 Ask me about **javascript, typescript, golang and devops tools.**
 
 - 📫 How to reach me **me@dscamargo.com**
